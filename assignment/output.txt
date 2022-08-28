@@ -1,0 +1,6 @@
+This is a output file >> output.txt
+
+echo This is a output file >> output.txt
+
+echo This is a output file
+This is a output file
